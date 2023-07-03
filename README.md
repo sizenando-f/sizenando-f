@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome home 😎
 
 <!--
 **sizenando-f/sizenando-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📚 Currently Software Engineer and Computer Science student
+
+| Rank | Languages |
+|-----:|---------------|
+|     1| JavaScript |
+|     2| C |
+|     3| C++ |
+|     4| Java |
+|     5| SQL |
