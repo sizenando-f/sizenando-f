@@ -83,6 +83,12 @@
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+       <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/babel/logo/master/babel.png" alt="icon" width="65" height="60" />
+      </a>
+      <br>Babel
+    </td>
   </tr>
 </table>
 
