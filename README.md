@@ -92,22 +92,8 @@
   </tr>
 </table>
 
-<details>
-<summary>Language Knowledge Ranking</summary>
-<br>
-  
-| Rank | Languages |
-|-----:|---------------|
-|     1| JavaScript |
-|     2| C |
-|     3| C++ |
-|     4| Java |
-|     5| Python |
-|     6| SQL |
-</details>
-
 ### Developing skills:
-- JavaScript, C
+- React, C++
 
 ### Talk with me:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -115,7 +101,7 @@
 [<img align="left" alt="holisitc_developer | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 <br/>
 
-[linkedin]: https://www.linkedin.com/in/sizenando-fran%C3%A7a-b077b9207/
+[linkedin]: https://www.linkedin.com/in/sizenando-franca/
 [instagram]: https://www.instagram.com/sizenando.f
 [github]: https://www.github.com/sizenando-f
 
