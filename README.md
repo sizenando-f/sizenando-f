@@ -43,6 +43,18 @@
       </a>
       <br>Git
     </td>
+    <td align="center" width="96">
+        <a href="#rest" >
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" />
+        </a>
+      <br>API Rest
+    </td>
+    <td align="center"  width="96">
+        <a href="#html">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        </a>
+      <br>HTML
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -62,6 +74,18 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="#css">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+      <a href="#bootstrap">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      </a>
+      <br>Bootstrap
     </td>
   </tr>
   <tr>
@@ -88,6 +112,16 @@
         <img src="https://raw.githubusercontent.com/babel/logo/master/babel.png" alt="icon" width="65" height="60" />
       </a>
       <br>Babel
+    </td>
+    <td align="center" width="96">
+      <a href="#typescript">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+     <td align="center"  width="96">
+      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> </a> 
+      <br>React js
     </td>
   </tr>
 </table>
