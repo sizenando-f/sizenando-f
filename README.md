@@ -1,6 +1,6 @@
 [![badge](https://glitch-image.vercel.app/api?text=Sizenando%20França)](https://glitch-image.vercel.app/api?text=Glitch%20Image)
 
-**<p align="center"> Software Engineer and Computer Science student </p>**
+**<p align="center">Computer Science student </p>**
 
 
 ``` C
