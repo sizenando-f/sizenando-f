@@ -1,19 +1,23 @@
 [![badge](https://glitch-image.vercel.app/api?text=Sizenando%20França)](https://glitch-image.vercel.app/api?text=Glitch%20Image)
 
-**<p align="center">Estudante de Ciência da Computação</p>**
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> Sobre Mim
 
-```c
-if (knowledge < enough) {
-    learn(time);
-} else {
-    printf("Never is enough");
-}
+<table align="center">
+<tr border="none">
+<td width="70%" align="left">
 
-```
+- 🔭 Estudante de `Ciência da Computação` na Universidade Estadual de Mato Grosso do Sul.
+- 🌱 Estou atualmente aprendendo `React`, `C` e `C++`.
+- 👯 Aberto para colaborar com projetos fullstack e desenvolvedores
+- ⚙️ Disponível para `serviços`
+- 💬 Converse comigo sobre **fullstack**, **desenvolvimento**, **inteligência artifical e automação**
 
-🌍 Moro em Rio Brilhante, Mato Grosso do Sul, Brasil.
-🎓 Estudante de Ciência da Computação na Universidade Estadual de Mato Grosso do Sul.
-💻 Apaixonado por tecnologia, inteligência artificial e desenvolvimento de software.
+</td>
+<td width="50%" align="center">
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+</td>
+</tr>
+</table>
 
 ## My tools that I'm currently using ⚙️ 
 
