@@ -7,7 +7,7 @@
 <td width="70%" align="left">
 
 - 🔭 Estudante de `Ciência da Computação` na Universidade Estadual de Mato Grosso do Sul.
-- 🌱 Estou atualmente aprendendo `React`, `C` e `C++`.
+- 🌱 Estou atualmente aprendendo `Node.js`.
 - 👯 Aberto para colaborar com projetos fullstack e desenvolvedores
 - ⚙️ Disponível para `serviços`
 - 💬 Converse comigo sobre **fullstack**, **desenvolvimento**, **inteligência artifical e automação**
