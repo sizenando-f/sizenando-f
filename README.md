@@ -21,10 +21,10 @@
 ### 🚀 Sobre Mim
 
 <p>
-  Estudante de <b>Ciência da Computação</b> na Universidade Estadual de Mato Grosso do Sul (UEMS), focado em desenvolvimento <b>Full-Stack</b>. Tenho grande interesse na criação de soluções eficientes e escaláveis, explorando áreas como <b>Inteligência Artificial</b> e <b>automação de sistemas</b>. Estou sempre aprendendo novas tecnologias para aprimorar minhas habilidades e construir projetos inovadores.
+  Sou um desenvolvedor e estudante de <b>Ciência da Computação</b> na UEMS. Meu principal foco é o desenvolvimento <b>Full-Stack</b>, construindo aplicações web desde o front-end até o back-end. Gosto de transformar ideias em código funcional e de encontrar as melhores ferramentas para resolver cada problema.
 </p>
 <p>
-  Atualmente, estou aprofundando meus conhecimentos em <code>Python</code>, <code>OpenGL</code> e arquiteturas de baixo nível com <code>Assembly</code>. Buscando oportunidades para colaborar em projetos desafiadores e aplicar meu conhecimento para resolver problemas reais.
+  Estou sempre em busca de oportunidades para aplicar meu conhecimento, seja em projetos de estudo, colaborações ou desafios de mercado que me permitam crescer como profissional.
 </p>
 
 ---
