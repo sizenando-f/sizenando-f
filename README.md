@@ -1,110 +1,102 @@
-[![badge](https://glitch-image.vercel.app/api?text=Sizenando%20França)](https://glitch-image.vercel.app/api?text=Glitch%20Image)
-
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> Sobre Mim
-
-<table align="center">
-<tr border="none">
-<td width="70%" align="left">
-
-- 🔭 Estudante de `Ciência da Computação` na Universidade Estadual de Mato Grosso do Sul.
-- 🌱 Estou atualmente aprendendo `Python`, `PyGame`, `OpenGL` e `Assembly`.
-- 👯 Aberto para colaborar com projetos fullstack e desenvolvedores
-- ⚙️ Disponível para `serviços`
-- 💬 Converse comigo sobre **fullstack**, **desenvolvimento**, **inteligência artifical e automação**
-
-</td>
-<td width="50%" align="center">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-</td>
-</tr>
-</table>
-
-## Linguagens e ferramentas ⚙️ 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="50" alt="c logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="50"/>         
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="50" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="50" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="50" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API Rest" height="50" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="50" alt="sass logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" height="50"/>
-  <img width="15" /> 
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="50" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50"/>
-  <img width="15" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50"/>
-  <img width="15" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50"/>
-  <img width="15" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" height="50"/>
-  
+<div align="center">
+  <a href="https://github.com/sizenando-f">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=00E86C&center=true&vCenter=true&width=500&lines=+Sizenando+Fran%C3%A7a;Desenvolvedor+Full-Stack;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+tecnologia." alt="Typing SVG" />
+  </a>
 </div>
-<a/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Minhas Estatísticas
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sizenando-f&theme=chartreuse-dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sizenando-f&theme=chartreuse-dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sizenando-f&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-
-
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px"  height="40px"> Fale comigo
-
-<p align="center">
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/sizenando-franca/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> &nbsp;&nbsp;
-
+  </a>
   <a href="mailto:sizenandofranca290@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> &nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/sizenando.404">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> &nbsp;&nbsp;
-
-<p>
-
-<div align="center">
-  :sunglasses: Obrigado por visitar meu perfil, tenha um ótimo dia! :wink: <br/>
-  &copy; 2024 sizenando-f
+  </a>
 </div>
 
-<br>
+---
 
->Nós somos o que repetidamente fazemos. Excelência então, é um hábito.
-— Socrates
+### 🚀 Sobre Mim
+
+<p>
+  Estudante de <b>Ciência da Computação</b> na Universidade Estadual de Mato Grosso do Sul (UEMS), focado em desenvolvimento <b>Full-Stack</b>. Tenho grande interesse na criação de soluções eficientes e escaláveis, explorando áreas como <b>Inteligência Artificial</b> e <b>automação de sistemas</b>. Estou sempre aprendendo novas tecnologias para aprimorar minhas habilidades e construir projetos inovadores.
+</p>
+<p>
+  Atualmente, estou aprofundando meus conhecimentos em <code>Python</code>, <code>OpenGL</code> e arquiteturas de baixo nível com <code>Assembly</code>. Buscando oportunidades para colaborar em projetos desafiadores e aplicar meu conhecimento para resolver problemas reais.
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p>Estas são algumas das tecnologias e ferramentas com as quais tenho trabalhado:</p>
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <p><strong>Frontend</strong></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,bootstrap" />
+      </a>
+    </td>
+    <td align="center" width="180">
+      <p><strong>Backend</strong></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+      </a>
+    </td>
+    <td align="center" width="180">
+      <p><strong>Linguagens</strong></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,java,assembly" />
+      </a>
+    </td>
+    <td align="center" width="180">
+      <p><strong>Ferramentas e Outros</strong></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,babel,npm" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Projetos em Destaque
+
+<p>Aqui estão alguns dos projetos que mais me orgulho. Para ver todos, acesse a aba de repositórios.</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sizenando-f/Projetos_em_C" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sizenando-f&repo=Projetos_em_C&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sizenando-f/Projetos_Fullstack" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sizenando-f&repo=Projetos_Fullstack&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sizenando-f&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizenando-f&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sizenando-f&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/sizenando-f/sizenando-f/raw/output/github-contribution-grid-snake.svg" alt="snake" style="margin-top: 20px;"/>
+</div>
+
+
+> "Nós somos o que repetidamente fazemos. A excelência, então, não é um ato, mas um hábito."
+> — Aristóteles (atribuído)
