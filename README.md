@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/sizenando-f">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=00E86C&center=true&vCenter=true&width=500&lines=+Sizenando+Fran%C3%A7a;Desenvolvedor+Full-Stack;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+tecnologia." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Solutions;CS+Student+%40+UEMS;NestJS+%7C+Next.js+%7C+Docker" alt="Typing SVG" />
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
@@ -20,83 +18,49 @@
 
 ### 🚀 Sobre Mim
 
-<p>
-  Sou um desenvolvedor e estudante de <b>Ciência da Computação</b> na UEMS. Meu principal foco é o desenvolvimento <b>Full-Stack</b>, construindo aplicações web desde o front-end até o back-end. Gosto de transformar ideias em código funcional e de encontrar as melhores ferramentas para resolver cada problema.
-</p>
-<p>
-  Estou sempre em busca de oportunidades para aplicar meu conhecimento, seja em projetos de estudo, colaborações ou desafios de mercado que me permitam crescer como profissional.
-</p>
+Sou um desenvolvedor focado em **Engenharia de Software** e estudante de Ciência da Computação. Minha paixão não é apenas escrever código, mas desenhar **arquiteturas escaláveis** que resolvem problemas reais de negócio.
+
+Atualmente, estou focado no ecossistema **Node.js Enterprise** (NestJS) e interfaces modernas (Next.js), aplicando conceitos de **DevOps** (Docker) e **Engenharia de Dados** em projetos práticos.
 
 ---
 
-### 🛠️ Tech Stack
-
-<p>Estas são algumas das tecnologias e ferramentas com as quais tenho trabalhado:</p>
-
-<table>
-  <tr>
-    <td align="center" width="180">
-      <p><strong>Frontend</strong></p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,bootstrap" />
-      </a>
-    </td>
-    <td align="center" width="180">
-      <p><strong>Backend</strong></p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
-      </a>
-    </td>
-    <td align="center" width="180">
-      <p><strong>Linguagens</strong></p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,java,assembly" />
-      </a>
-    </td>
-    <td align="center" width="180">
-      <p><strong>Ferramentas e Outros</strong></p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,babel,npm" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 Projetos em Destaque
-
-<p>Aqui estão alguns dos projetos que mais me orgulho. Para ver todos, acesse a aba de repositórios.</p>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/sizenando-f/Projetos_em_C" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sizenando-f&repo=Projetos_em_C&theme=tokyonight&show_owner=true" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/sizenando-f/Projetos_Fullstack" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sizenando-f&repo=Projetos_Fullstack&theme=tokyonight&show_owner=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
+### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sizenando-f&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizenando-f&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sizenando-f&theme=tokyonight" alt="GitHub Streak" />
+
+| **Backend & Infra** | **Frontend & UI** | **Core & Academic** |
+|:---:|:---:|:---:|
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,docker,prisma,linux" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,figma,vite" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" /></a> |
+
+</div>
+
+---
+
+### 💎 Projeto em Destaque: Royal ERP
+
+Estou liderando o desenvolvimento de um sistema proprietário para gestão industrial de panificação.
+
+| **Padaria Royal - Intelligence System** |
+| :--- |
+| **O Desafio:** Transformar a produção artesanal em um processo científico baseado em dados. |
+| **A Solução:** Um ERP Full Stack com **Arquitetura em 3 Camadas**. |
+| **Stack:** NestJS, Prisma, PostgreSQL, Docker, Next.js. |
+| **Features:** Algoritmo de sugestão de produção, Dashboards de BI e CI/CD. |
+| 🔗 [**Ver Repositório**](https://github.com/sizenando-f/padaria-royal) |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sizenando-f&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizenando-f&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sizenando-f&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github.com/sizenando-f/sizenando-f/raw/output/github-contribution-grid-snake.svg" alt="snake" style="margin-top: 20px;"/>
 </div>
-
-
-> "Nós somos o que repetidamente fazemos. A excelência, então, não é um ato, mas um hábito."
-> — Aristóteles (atribuído)
