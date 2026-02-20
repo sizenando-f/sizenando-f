@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/sizenando-franca/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sizenandofranca290@gmail.com" target="_blank">
+  <a href="mailto:sizenando.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/sizenando.404">
@@ -18,9 +18,9 @@
 
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor focado em **Engenharia de Software** e estudante de Ciência da Computação. Minha paixão não é apenas escrever código, mas desenhar **arquiteturas escaláveis** que resolvem problemas reais de negócio.
+Sou estudante de **Ciência da Computação** na UEMS e um desenvolvedor focado em **Engenharia de Software**. Minha paixão é desenhar arquiteturas limpas para resolver problemas reais e **compartilhar conhecimento** (atuando também como mentor acadêmico de JavaScript e instrutor de inclusão digital).
 
-Atualmente, estou focado no ecossistema **Node.js Enterprise** (NestJS) e interfaces modernas (Next.js), aplicando conceitos de **DevOps** (Docker) e **Engenharia de Dados** em projetos práticos.
+Atualmente, meu foco técnico está no ecossistema **TypeScript/Node.js** (NestJS) e interfaces modernas (Next.js), aplicando na prática conceitos de **Modelagem de Dados** (PostgreSQL/Prisma) e **Infraestrutura** (Docker).
 
 ---
 
@@ -36,26 +36,21 @@ Atualmente, estou focado no ecossistema **Node.js Enterprise** (NestJS) e interf
 
 ---
 
-### 💎 Projeto em Destaque: Royal ERP
+### 💎 Projeto em Destaque: Sistema de Gestão de Produção e Predição
 
-Estou liderando o desenvolvimento de um sistema proprietário para gestão industrial de panificação.
+Desenvolvimento de um sistema proprietário ponta a ponta para a modernização do setor de panificação industrial.
 
-| **Padaria Royal - Intelligence System** |
+| **Padaria Royal - MRP & Predição** |
 | :--- |
-| **O Desafio:** Transformar a produção artesanal em um processo científico baseado em dados. |
-| **A Solução:** Um ERP Full Stack com **Arquitetura em 3 Camadas**. |
+| **O Desafio:** Transformar a produção baseada em intuição empírica em um processo científico e orientado a dados. |
+| **A Solução:** Um Sistema de Gestão (MRP) Full Stack com **Arquitetura em 3 Camadas**. |
 | **Stack:** NestJS, Prisma, PostgreSQL, Docker, Next.js. |
-| **Features:** Algoritmo de sugestão de produção, Dashboards de BI e CI/CD. |
+| **Features:** Algoritmo Preditivo (K-NN Ponderado) de insumos, Dashboards Analíticos de Qualidade e consumo de API Meteorológica. |
 | 🔗 [**Ver Repositório**](https://github.com/sizenando-f/padaria-royal) |
 
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sizenando-f&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizenando-f&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sizenando-f&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
