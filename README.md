@@ -30,7 +30,7 @@
 
 Estudante de **Ciência da Computação** na UEMS com foco em engenharia de software aplicada. Projeto e construo sistemas do banco de dados até a interface — com atenção especial para modelagem de dados, arquitetura de APIs e qualidade do código.
 
-Fora do código, atuo como **mentor acadêmico de JavaScript** e **instrutor de inclusão digital**, o que me fez aprender que explicar algo com clareza é tão técnico quanto implementá-lo bem.
+Fora do código, atuei como **mentor acadêmico de JavaScript** e **instrutor de inclusão digital**, o que me fez aprender que explicar algo com clareza é tão técnico quanto implementá-lo bem.
 
 Recentemente, finalizei um **sistema Full Stack de gestão de produção** com algoritmo de predição de insumos baseado em similaridade histórica ponderada.
 
